@@ -2,3 +2,4 @@ Step 1 : Create hello world app.
 Step 2 : Run it.
 step 3: nothing... byeeeeeee
 step 4: Test and build again.
+Step 5: QA verified
